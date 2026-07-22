@@ -1,1 +1,0 @@
-# Automated-Dental-Anomaly-Detection
